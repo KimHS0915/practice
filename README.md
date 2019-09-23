@@ -12,6 +12,7 @@
 ---
 >연습입니다.
 >>연습입니다.
+>>>연습입니다.
 ~~~
 연습입니다.
 연습입니다.
@@ -60,6 +61,15 @@ ___
 - one
   - two
     - three
-    
+
+
 *  *  *
 - - -
+이미지를 올려봅시다
+
+![ex1](https://github.com/KimHS0915/practice/blob/master/ex1.png)  
+![ex2](https://github.com/KimHS0915/practice/blob/master/ex2.png "ex2도 올려봅시다")  
+
+이미지 링크
+
+[![Vue](https://github.com/KimHS0915/practice/blob/master/ex3.jpg)](http://www.google.com)
