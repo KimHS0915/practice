@@ -1,2 +1,2 @@
 print("practice")
-print("hey jude")
+print("git clone")
